@@ -1,6 +1,6 @@
 <h1 align=center>Nitiplink</h1>
 <p align=center>
-Sebuah repository publik yang berisi link berfaedah dari discord Infinite Devsign
+Sebuah repository publik yang berisi link bermanfaat dari discord Infinite Devsign
 </p>
 
 <br>
