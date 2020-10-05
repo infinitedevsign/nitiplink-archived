@@ -21,8 +21,6 @@
 
 ### A place to Find Free Illustration Assets
 - [Undraw](https://undraw.co/illustrations/)
-- [Freepik](https://www.freepik.com/)
-- [Avataars](https://avataaars.com/)
 - [Lstore Graphics](https://www.ls.graphics/whoosh)
 - [Karthik Srinivas](https://www.karthiksrinivas.in/illustrations)
 - [Stubborn](https://stubborn.fun/)
@@ -36,6 +34,8 @@
 - [Open Peeps](https://www.openpeeps.com/)
 - [Silhouette Garden](https://silhouettegarden.com/) (Clipart)
 - [ManyPixels](https://www.manypixels.co/gallery/)
-- [Bottts](https://bottts.com/) (Sketch App)
+- [Avataars](https://avataaars.com/) (Sketch App)
+- [Bottts](https://bottts.com/)  (Sketch App)
+- [Freepik](https://www.freepik.com/)
 - [Stories Freepik](https://stories.freepik.com/)
 - [Design.dev](https://design.dev/)
