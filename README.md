@@ -1,6 +1,6 @@
 <h1 align=center>Nitiplink</h1>
 <p align=center>
-Sebuah repository publik yang berisi link bermanfaat dari discord Infinite Devsign
+A public repository containing helpful links from Infinite Devsign discord.
 </p>
 
 <br>
@@ -16,17 +16,17 @@ Sebuah repository publik yang berisi link bermanfaat dari discord Infinite Devsi
 
 <br>
 
-## Kategori
+## Category
 - <a href="assets/">Assets</a>
-- <a href="design-inspiration/">Design Inspiration</a>
 - <a href="backend/">Backend</a>
+- <a href="design-inspiration/">Design Inspiration</a>
 - <a href="frontend/">Frontend</a>
 - <a href="gear/">Gear</a>
 
-## Lisensi
-- <b>Repository ini bersifat open-source dibawah lisensi GPL 3.0 (General Public License 3.0)</b>
-- Baca detail lisensi <a href="LICENSE">berikut</a>
+## License
+- <b>This repository is open-source under the GPL 3.0 license (General Public License 3.0)</b>
+- Read license details <a href="LICENSE">here</a>
 
-## Kontributor
-- <a href="https://github.com/FarizInk">Farizink</a>
+## Contributor
+- <a href="https://github.com/FarizInk">Fariz</a>
 - <a href="https://github.com/arifinizzah">Arifin Izzah</a>
