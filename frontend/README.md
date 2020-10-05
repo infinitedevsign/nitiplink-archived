@@ -3,11 +3,11 @@
 ## List Contents
 
 - **[Favourite UI UX / Interactive Page from Tympanus](#favourite-ui-ux-/-interactive-page-from-tympanus)**
-- [Neumorphism Generator](https://neumorphism.io/)
-- [Background for your website](#background-for-your-website)
-- [Illustration](#illustration)
-- [Design Guideline References](#design-guideline-references)
-- [Color References](#color-references)
+- [Neumorphism Generator](https://neumorphism.io/){:target="_blank"}
+- **[Background for your website](#background-for-your-website)**
+- **[Illustration](#illustration)**
+- **[Design Guideline References](#design-guideline-references)**
+- **[Color References](#color-references)**
 
 <br>
 <hr>
