@@ -34,7 +34,7 @@
 - [Humaaans](https://www.humaaans.com/)
 - [Control](https://control.rocks/)
 - [Open Peeps](https://www.openpeeps.com/)
-- [Silhouette Garden](https://silhouettegarden.com/) (clipart)
+- [Silhouette Garden](https://silhouettegarden.com/) (Clipart)
 - [ManyPixels](https://www.manypixels.co/gallery/)
 - [Bottts](https://bottts.com/) (Sketch App)
 - [Avataaars](https://error404.fun/)
