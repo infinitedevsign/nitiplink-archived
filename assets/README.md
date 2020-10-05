@@ -37,6 +37,5 @@
 - [Silhouette Garden](https://silhouettegarden.com/) (Clipart)
 - [ManyPixels](https://www.manypixels.co/gallery/)
 - [Bottts](https://bottts.com/) (Sketch App)
-- [Avataaars](https://error404.fun/)
 - [Freepik](https://stories.freepik.com/)
 - [Design.dev](https://design.dev/)
