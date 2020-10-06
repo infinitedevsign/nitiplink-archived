@@ -12,6 +12,7 @@ A public repository containing helpful links from Infinite Devsign team and othe
 <p align=center>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=infinitedevsign.nitiplink"/>
   <img src="https://img.shields.io/badge/license-GPL-blue.svg" alt="license"/>
+  <img src="https://img.shields.io/badge/created%20by-Infinite%20Devsign%20Team-blue"/>
 </p>
 
 <br>
