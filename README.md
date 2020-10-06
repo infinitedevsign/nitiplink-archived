@@ -1,6 +1,6 @@
 <h1 align=center>Nitiplink</h1>
 <p align=center>
-A public repository containing helpful links from Infinite Devsign discord.
+A public repository containing helpful links from Infinite Devsign team and other Contributors.
 </p>
 
 <br>
@@ -30,3 +30,6 @@ A public repository containing helpful links from Infinite Devsign discord.
 ## Contributor
 - <a href="https://github.com/FarizInk">Fariz</a>
 - <a href="https://github.com/arifinizzah">Arifin Izzah</a>
+- <a href="https://github.com/anaknyata">Real Ananda Kristi</a>
+
+Wanna contribute? Please read <a href="CONTRIBUTING.md">CONTRIBUTING.md</a>
