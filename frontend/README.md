@@ -8,15 +8,15 @@
 - **[Illustration](#illustration)**
 - **[Design Guideline References](#design-guideline-references)**
 - **[Color References](#color-references)**
-- [Custom Select Input with _Selectize.js_](https://selectize.github.io/selectize.js/)
 - [Tool for create static one page site _(Carrd)_](https://carrd.co/)
-- **[Transitions](#transitions)**
+- **[Transitions and Animations](#transitions-and-animations)**
 - _**[Awesome React](https://github.com/enaqx/awesome-react)**_
 - _**[Awesome Svelte](#awesome-svelte)**_
 - _**[Awesome Vue](https://github.com/vuejs/awesome-vue)**_
 - _**[Awesome Angular](https://github.com/PatrickJS/awesome-angular)**_
 - **[Free Dashboard](#free-dashboard)**
 - [SEO Tools](#seo-tools)
+- [Library Collection](#library-collection)
 
 <br>
 <hr>
@@ -30,6 +30,9 @@
 - [Button Style Inspiration](http://tympanus.net/Development/ButtonStylesInspiration/)
 - [Dialog Effect](https://tympanus.net/Development/DialogEffects/don.html)
 - [Hover Effect Ideas](https://tympanus.net/Development/HoverEffectIdeas/)
+<p align="right">
+    <b><a href="#lists-content">↥ Back to top</a></b>
+</p>
 
 ### Background for your website
 
@@ -59,10 +62,12 @@
 - [Image Color Picker](https://imagecolorpicker.com/)
 - [Colormind](http://colormind.io/)
 - [20 Pastel Spring Summer Color Palettes](https://offeo.com/learn/20-pastel-spring-summer-color-palettes/)
+- [Curated colors in context by _Happy Hues_](https://www.happyhues.co/)
 
-### Transitions
+### Transitions and Animations
 
 - [AOS Transition](https://github.com/michalsnik/aos)
+- [Hamburger Icon Animation](https://codepen.io/designcouch/pen/Atyop)
 
 ### _Awesome Svelte_
 
@@ -77,5 +82,10 @@
 ### SEO Tools
 
 - [Research SEO from _Ubersuggest_](https://neilpatel.com/ubersuggest/)
-- [PageSpeed Insight from _Google_](https://developers.google.com/speed/pagespeed/insights/)
-- [Mobile Friendly Test from _Google_](https://search.google.com/test/mobile-friendly/)
+- [PageSpeed Insight by _Google_](https://developers.google.com/speed/pagespeed/insights/)
+- [Mobile Friendly Test by _Google_](https://search.google.com/test/mobile-friendly/)
+
+### Library Collection
+
+- [Custom Select Input with _Selectize.js_](https://selectize.github.io/selectize.js/)
+- [_Slick_ Carousel](https://github.com/kenwheeler/slick/)
