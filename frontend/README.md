@@ -12,8 +12,8 @@
 - **[Transitions and Animations](#transitions-and-animations)**
 - _**[:fire: Awesome React](#fire-awesome-react)**_
 - _**[:fire: Awesome Svelte](#fire-awesome-svelte)**_
-- _**[:fire: Awesome Vue](https://github.com/vuejs/awesome-vue)**_
-- _**[:fire: Awesome Angular](https://github.com/PatrickJS/awesome-angular)**_
+- _**[:fire: Awesome Vue](#fire-awesome-vue)**_
+- _**[:fire: Awesome Angular](#fire-awesome-angular)**_
 - **[Free Dashboard](#free-dashboard)**
 - **[SEO Tools](#seo-tools)**
 - **[Library Collection](#library-collection)**
@@ -102,6 +102,22 @@
 
 - [Resources](https://github.com/ryanatkn/awesome-svelte-resources)
 - [Made With Svelte](https://madewithsvelte.com/)
+
+<p align="right">
+    <b><a href="#list-contents">↥ Back to top</a></b>
+</p>
+
+### :fire: _Awesome Vue_
+
+- [Resources](https://github.com/vuejs/awesome-vue)
+
+<p align="right">
+    <b><a href="#list-contents">↥ Back to top</a></b>
+</p>
+
+### :fire: _Awesome Angular_
+
+- [Resources](https://github.com/PatrickJS/awesome-angular)
 
 <p align="right">
     <b><a href="#list-contents">↥ Back to top</a></b>
