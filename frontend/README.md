@@ -100,7 +100,7 @@
 
 ### :fire: _Awesome Svelte_
 
-- [Resources](https://github.com/ryanatkn/awesome-svelte-resources)
+- [Resources by _ryanatkn_](https://github.com/ryanatkn/awesome-svelte-resources)
 - [Made With Svelte](https://madewithsvelte.com/)
 
 <p align="right">
@@ -109,7 +109,7 @@
 
 ### :fire: _Awesome Vue_
 
-- [Resources](https://github.com/vuejs/awesome-vue)
+- [Resources by _VueJS_](https://github.com/vuejs/awesome-vue)
 
 <p align="right">
     <b><a href="#list-contents">↥ Back to top</a></b>
@@ -117,7 +117,7 @@
 
 ### :fire: _Awesome Angular_
 
-- [Resources](https://github.com/PatrickJS/awesome-angular)
+- [Resources by _PatrickJS_](https://github.com/PatrickJS/awesome-angular)
 
 <p align="right">
     <b><a href="#list-contents">↥ Back to top</a></b>
