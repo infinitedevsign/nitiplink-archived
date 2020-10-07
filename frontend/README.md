@@ -15,8 +15,8 @@
 - _**[Awesome Vue](https://github.com/vuejs/awesome-vue)**_
 - _**[Awesome Angular](https://github.com/PatrickJS/awesome-angular)**_
 - **[Free Dashboard](#free-dashboard)**
-- [SEO Tools](#seo-tools)
-- [Library Collection](#library-collection)
+- **[SEO Tools](#seo-tools)**
+- **[Library Collection](#library-collection)**
 
 <br>
 <hr>
