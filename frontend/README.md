@@ -10,7 +10,7 @@
 - **[Color References](#color-references)**
 - [Tool for create static one page site _(Carrd)_](https://carrd.co/)
 - **[Transitions and Animations](#transitions-and-animations)**
-- _**[:fire: Awesome React](https://github.com/enaqx/awesome-react)**_
+- _**[:fire: Awesome React](#awesome-react)**_
 - _**[:fire: Awesome Svelte](#awesome-svelte)**_
 - _**[:fire: Awesome Vue](https://github.com/vuejs/awesome-vue)**_
 - _**[:fire: Awesome Angular](https://github.com/PatrickJS/awesome-angular)**_
@@ -90,7 +90,15 @@
     <b><a href="#list-contents">↥ Back to top</a></b>
 </p>
 
-### _Awesome Svelte_
+### :fire: _Awesome React_
+
+- [Resources](https://github.com/enaqx/awesome-react)
+
+<p align="right">
+    <b><a href="#list-contents">↥ Back to top</a></b>
+</p>
+
+### :fire: _Awesome Svelte_
 
 - [Resources](https://github.com/ryanatkn/awesome-svelte-resources)
 - [Made With Svelte](https://madewithsvelte.com/)
