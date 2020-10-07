@@ -10,10 +10,10 @@
 - **[Color References](#color-references)**
 - [Tool for create static one page site _(Carrd)_](https://carrd.co/)
 - **[Transitions and Animations](#transitions-and-animations)**
-- _**[Awesome React](https://github.com/enaqx/awesome-react)**_
-- _**[Awesome Svelte](#awesome-svelte)**_
-- _**[Awesome Vue](https://github.com/vuejs/awesome-vue)**_
-- _**[Awesome Angular](https://github.com/PatrickJS/awesome-angular)**_
+- _**[:fire: Awesome React](https://github.com/enaqx/awesome-react)**_
+- _**[:fire: Awesome Svelte](#awesome-svelte)**_
+- _**[:fire: Awesome Vue](https://github.com/vuejs/awesome-vue)**_
+- _**[:fire: Awesome Angular](https://github.com/PatrickJS/awesome-angular)**_
 - **[Free Dashboard](#free-dashboard)**
 - **[SEO Tools](#seo-tools)**
 - **[Library Collection](#library-collection)**
