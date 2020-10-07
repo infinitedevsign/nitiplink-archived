@@ -2,7 +2,7 @@
 
 ## List Contents
 
-- **[Favourite UI UX / Interactive Page from Tympanus](#favourite-ui-ux-/-interactive-page-from-tympanus)**
+- **[Favourite UI UX Interactive Page from Tympanus](#favourite-ui-ux-interactive-page-from-tympanus)**
 - [Neumorphism Generator](https://neumorphism.io/)
 - **[Background for your website](#background-for-your-website)**
 - **[Illustration](#illustration)**
@@ -31,7 +31,7 @@
 - [Dialog Effect](https://tympanus.net/Development/DialogEffects/don.html)
 - [Hover Effect Ideas](https://tympanus.net/Development/HoverEffectIdeas/)
 <p align="right">
-    <b><a href="#lists-content">↥ Back to top</a></b>
+    <b><a href="#list-contents">↥ Back to top</a></b>
 </p>
 
 ### Background for your website
