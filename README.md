@@ -1,6 +1,6 @@
 <h1 align=center>Nitiplink</h1>
 <p align=center>
-A public repository containing helpful links from Infinite Devsign discord.
+A public repository containing helpful links from Infinite Devsign team and other Contributors.
 </p>
 
 <br>
@@ -12,6 +12,7 @@ A public repository containing helpful links from Infinite Devsign discord.
 <p align=center>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=infinitedevsign.nitiplink"/>
   <img src="https://img.shields.io/badge/license-GPL-blue.svg" alt="license"/>
+  <img src="https://img.shields.io/badge/created%20by-Infinite%20Devsign%20Team-blue"/>
 </p>
 
 <br>
@@ -30,3 +31,6 @@ A public repository containing helpful links from Infinite Devsign discord.
 ## Contributor
 - <a href="https://github.com/FarizInk">Fariz</a>
 - <a href="https://github.com/arifinizzah">Arifin Izzah</a>
+- <a href="https://github.com/anaknyata">Real Ananda Kristi</a>
+
+Wanna contribute? Please read <a href="CONTRIBUTING.md">CONTRIBUTING.md</a>
