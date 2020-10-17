@@ -32,5 +32,6 @@ A public repository containing helpful links from Infinite Devsign team and othe
 - <a href="https://github.com/FarizInk">Fariz</a>
 - <a href="https://github.com/arifinizzah">Arifin Izzah</a>
 - <a href="https://github.com/anaknyata">Real Ananda Kristi</a>
+- <a href="https://github.com/ramahisyam">Rama Hisyam Alchoiri</a>
 
 Wanna contribute? Please read <a href="CONTRIBUTING.md">CONTRIBUTING.md</a>
