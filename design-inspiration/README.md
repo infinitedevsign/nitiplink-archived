@@ -12,6 +12,7 @@
 - [Behance](https://www.behance.net/)
 - [Dribbble](https://dribbble.com/)
 - [Awwwards](https://www.awwwards.com/)
+- [pttrns](https://pttrns.com/)
 
 
 <p align="right">
