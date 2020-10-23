@@ -19,10 +19,18 @@
 - [KBDfans](https://kbdfans.com/)
 - [HyperX x Ducky One 2 Mini Review - Brandon Taylor](https://www.youtube.com/watch?v=i4lvGpDPPTo)
 
+<p align="right">
+    <b><a href="#list-contents">↥ Back to top</a></b>
+</p>
+
 ### Mouse
 - [Logitech MX Master 3](https://www.logitech.com/en-us/product/mx-master-3)
 - [Logitech G102 New Edition 2020](https://www.logitechg.com/in-id/products/gaming-mice/g102-lightsync-rgb-gaming-mouse.html)
 - [ASUS ROG Chakram Review - randomfrankp](https://www.youtube.com/watch?v=imE3jc3Iq3s)
+
+<p align="right">
+    <b><a href="#list-contents">↥ Back to top</a></b>
+</p>
 
 ### Headset
 - [KZ ZS10 Pro](https://www.tokopedia.com/urbangeeks/knowledge-zenith-kz-zs10-pro-original-with-mic-alt-zst-zs3-ed12-zs6-purple-earphone)
