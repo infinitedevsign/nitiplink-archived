@@ -51,6 +51,9 @@
 ### A place to Find Asset Icons Free
 - [Ionicons](https://ionicons.com/)
 - [Feather Icon](https://feathericons.com/)
+- [Flaticon](https://www.flaticon.com/)
+- [Font Awesome](https://fontawesome.com/)
+- [Bootstrap Icons](https://icons.getbootstrap.com/)
 
 <p align="right">
     <b><a href="#table-of-contents">↥ Back to top</a></b>
