@@ -5,6 +5,7 @@
 - **[Keyboard](#keyboard)**
 - **[Mouse](#mouse)**
 - **[Headset](#headset)**
+- **[Speaker](#speaker)**
 
 <br>
 <hr>
@@ -27,6 +28,8 @@
 - [Logitech MX Master 3](https://www.logitech.com/en-us/product/mx-master-3)
 - [Logitech G102 New Edition 2020](https://www.logitechg.com/in-id/products/gaming-mice/g102-lightsync-rgb-gaming-mouse.html)
 - [ASUS ROG Chakram Review - randomfrankp](https://www.youtube.com/watch?v=imE3jc3Iq3s)
+- [FANTECH X17 BLAKE](https://fantech.ph/product/fantech-x17-blake-pro-gaming-mouse/)
+- [Razer Viper Mini](https://www.razer.com/gaming-mice/razer-viper-mini/RZ01-03250100-R3U1)
 
 <p align="right">
     <b><a href="#list-contents">↥ Back to top</a></b>
@@ -38,3 +41,13 @@
 <p align="right">
     <b><a href="#list-contents">↥ Back to top</a></b>
 </p>
+
+### Speaker
+- [Thonet & Vander Kurbis](https://thonet-vander.com/global/product/kurbis-bt/)
+- [Edifier R1700BT Bluetooth Bookshelf Speakers](https://www.edifier.com/my/en/speakers/r1700bt-bluetooth-bookshelf)
+- [Swan M50W](http://www.swanspeaker.com/product/htm/view.asp?id=443)
+
+<p align="right">
+    <b><a href="#list-contents">↥ Back to top</a></b>
+</p>
+
