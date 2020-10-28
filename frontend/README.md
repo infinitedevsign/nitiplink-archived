@@ -3,7 +3,7 @@
 ## List Contents
 
 - **[Favourite UI UX Interactive Page from Tympanus](#favourite-ui-ux-interactive-page-from-tympanus)**
-- [Neumorphism Generator](https://neumorphism.io/)
+- **[Generator](#Generator)**
 - **[Background for your website](#background-for-your-website)**
 - **[Illustration](#illustration)**
 - **[Design Guideline References](#design-guideline-references)**
@@ -17,6 +17,7 @@
 - **[Free Dashboard](#free-dashboard)**
 - **[SEO Tools](#seo-tools)**
 - **[Library Collection](#library-collection)**
+- **[Tutorial](#Tutorial)**
 
 <br>
 <hr>
@@ -30,6 +31,15 @@
 - [Button Style Inspiration](http://tympanus.net/Development/ButtonStylesInspiration/)
 - [Dialog Effect](https://tympanus.net/Development/DialogEffects/don.html)
 - [Hover Effect Ideas](https://tympanus.net/Development/HoverEffectIdeas/)
+
+<p align="right">
+    <b><a href="#list-contents">↥ Back to top</a></b>
+</p>
+
+### Generator
+
+- [Neumorphism Generator](https://neumorphism.io/)
+- [Box Shaddow](https://www.cssmatic.com/box-shadow)
 
 <p align="right">
     <b><a href="#list-contents">↥ Back to top</a></b>
@@ -146,6 +156,15 @@
 
 - [Custom Select Input with _Selectize.js_](https://selectize.github.io/selectize.js/)
 - [_Slick_ Carousel](https://github.com/kenwheeler/slick/)
+- [Simple & lightweight Parallax](https://matthew.wagerfield.com/parallax/)
+
+<p align="right">
+    <b><a href="#list-contents">↥ Back to top</a></b>
+</p>
+
+### Tutorial
+
+- [PWA by _Web.dev_](https://web.dev/progressive-web-apps/#0)
 
 <p align="right">
     <b><a href="#list-contents">↥ Back to top</a></b>
