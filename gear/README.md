@@ -38,3 +38,10 @@
 <p align="right">
     <b><a href="#list-contents">↥ Back to top</a></b>
 </p>
+
+### Monitor
+- [AOC 22B2HM Ultra Slim LED Monitor](https://tokopedia.link/3sXUTB26Krb)
+
+<p align="right">
+    <b><a href="#list-contents">↥ Back to top</a></b>
+</p>
