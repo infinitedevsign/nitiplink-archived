@@ -42,6 +42,13 @@
     <b><a href="#list-contents">↥ Back to top</a></b>
 </p>
 
+### Monitor
+- [AOC 22B2HM Ultra Slim LED Monitorr](https://tokopedia.link/3sXUTB26Krb)
+
+<p align="right">
+    <b><a href="#list-contents">↥ Back to top</a></b>
+</p>
+
 ### Speaker
 - [Thonet & Vander Kurbis](https://thonet-vander.com/global/product/kurbis-bt/)
 - [Edifier R1700BT Bluetooth Bookshelf Speakers](https://www.edifier.com/my/en/speakers/r1700bt-bluetooth-bookshelf)
@@ -50,4 +57,3 @@
 <p align="right">
     <b><a href="#list-contents">↥ Back to top</a></b>
 </p>
-
