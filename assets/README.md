@@ -43,6 +43,7 @@
 - [Freepik](https://www.freepik.com/)
 - [Stories Freepik](https://stories.freepik.com/)
 - [Design.dev](https://design.dev/)
+- [Icons8](https://icons8.com/l/animations/)
 
 <p align="right">
     <b><a href="#table-of-contents">↥ Back to top</a></b>
